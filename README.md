@@ -7,7 +7,7 @@ A modern, fully responsive **React + Tailwind CSS** web app to search books from
 
 ## 🚀 Live Demo
 > (Paste your CodeSandbox production URL here after deploying)  
-Example: `https://bookfinder-xyz123.codesandbox.io/`
+Example: `https://942p45-5173.csb.app/`
 
 ---
 
